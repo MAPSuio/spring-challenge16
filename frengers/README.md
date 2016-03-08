@@ -1,8 +1,8 @@
-Frengers, apart from being the title of an absolutely essential Pop Rock album,
+*Frengers*, apart from being the title of an absolutely essential Pop Rock album,
 is the concept of being "not quite friends, not quite strangers". You probably
 have a few frengers here at IFI.
 
-For our purposes, we will say that two people are frengers if they
+For our purposes, we will say that two people are *frengers* if they
 
 1. have met, and
 2. have at least 3 friends in common, but
@@ -28,14 +28,14 @@ The second entry says kari and per have met.
 Example:
 
 ```
-friend kari per
+friends kari per
 meet kari ola
-friend kari petter
-friend kari martin
-friend kari lone
-friend ola petter
-friend ola martin
-friend ola lone
+friends kari petter
+friends kari martin
+friends kari lone
+friends ola petter
+friends ola martin
+friends ola lone
 ```
 Answer: 1
 
