@@ -4,13 +4,20 @@ names_fd = open('names.txt', 'ro')
 
 names = map(lambda name: name.strip(), names_fd.readlines())
 
-events = ["meet", "friends"]
+events = []
+
+for i in xrange(7):
+    events.append("meet")
+
+for i in xrange(3):
+    events.append("friends")
+
 
 names_fd.close()
 
 entries = set()
 
-while len(entries) < 1000:
+while len(entries) < 8000:
 
     event = choice(events)
 
