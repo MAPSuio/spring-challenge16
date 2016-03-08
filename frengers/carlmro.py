@@ -1,7 +1,6 @@
+from sys import stdin
 
-data_fd = open('data.txt', 'ro')
-entries = map(lambda entries: entries.strip(), data_fd.readlines())
-data_fd.close()
+entries = map(lambda entries: entries.strip(), stdin.readlines())
 
 friend_map = {}
 meet_map = {}
@@ -32,6 +31,9 @@ for entry in entries:
         meet_map[person_b].add(person_a)
 
 for person in friend_map:
+
+    if person not in meet_map:
+        continue
 
     possible_frengers = meet_map[person].difference(friend_map[person])
 
