@@ -11,20 +11,16 @@ For our purposes, we will say that two people are frengers if they
 Given a history of meetings and friendship formations, determine how many
 *pairs* of people are frengers.
 
+You can assume that each name refers to one and and only one person.
+All names are mononyms – they consist of only one word.
+
 The dataset is of the following format:
 
 ```
 friends kari per
 meet kari ola
-friends kari petter
-friends kari martin
-friends kari lone
-friends ola petter
-friends ola martin
-friends ola lone
+...
 ```
-
-You can assume that each name refers to one and and only one person.
 
 The first entry says that kari and per are friends
 The second entry says kari and per have met.
