@@ -20,3 +20,8 @@ friends alice mallory
 
 The first line means that alice and bob are friends.
 The second line means that alice hates bob.
+
+You can assume that
+
+1. All names are hononyms (ie. consist of one word)
+2. There are no redundant lines in the dataset.
