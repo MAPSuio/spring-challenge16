@@ -1,6 +1,6 @@
 # Balanced Brackets
 
-![Parenthesis]("http://folk.uio.no/torenord/parenthesis.jpg")
+![Image paranthesis](http://folk.uio.no/torenord/parenthesis.jpg)
 
 
 How many of the 50 expressions below are correctly balanced?
