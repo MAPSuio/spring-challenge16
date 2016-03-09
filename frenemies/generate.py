@@ -15,7 +15,7 @@ events.append("hates")
 
 entries = set()
 
-while len(entries) < 20000:
+while len(entries) < 8000:
 
     event = choice(events)
 
