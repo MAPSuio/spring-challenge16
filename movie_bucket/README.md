@@ -1,12 +1,16 @@
-Ole keeps his Blu-Ray (anachronistic, we know) movies in a stack. All films are unique. Given a history of when
-Ole
+# Movie Bucket
+
+Ole keeps his Blu-Ray movies stacked in a deep bucket. All films are
+unique. Given a history of when Ole
 
 * buys new films (adds them on top of the stack)
 * sells films (removes them from the stack)
 * watches films (finds them in the stack, watches them, then puts them back on
   top of the stack)
 
-How deep into the stack is the movie "Gone with the wind"?
+How deep into the stack is the movie "Gone with the Wind"? Ole is human,
+so he uses 1-based indexing: That is, if "Gone with the Wind" is on top of the
+stack, the answer is 1, and so forth.
 
 The dataset is encoded in the following way:
 
