@@ -5,4 +5,4 @@ while x*y != 3168:
     x += 1
     y -= 1
 
-print x, y
+print y, x
