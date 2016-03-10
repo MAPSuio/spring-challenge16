@@ -17,7 +17,7 @@ def generate(depth):
 
 def main():
     for _ in range(50):
-        print generate(40)
+        print(generate(40))
 
 if __name__ == '__main__':
     main()
