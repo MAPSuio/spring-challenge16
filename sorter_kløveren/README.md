@@ -1,12 +1,12 @@
 # Sorter kløveren
 Kanskje du husker denne oppgaven fra du var liten:
 
-Du får utdelt alle kort i en farge (13 kort), fra en kortstokk.
+Du får utdelt alle kort i én farge (13 kort), fra en kortstokk.
 Sorter kortene og legg dem i en bunke slik at du kan legge alle kortene på bordet i stigende rekkefølge (A 2 3 4 5 6 7 8 9 T J Q K) ved å utføre følgende algoritme:
 
 1. Legg det øverste kortet fra bunken, på bordet.
-2. Hvis du har flere kort i bunken, gå til punkt 3. Hvis ikke, avslutt.
-3. Legg det som nå er det øverste kortet fra bunken, nederst i bunken.
+2. Hvis du ikke har flere kort i bunken, avslutt.
+3. Legg det som nå er det øverste kortet i bunken, nederst i bunken.
 4. Gå til punkt 1.
 
 
