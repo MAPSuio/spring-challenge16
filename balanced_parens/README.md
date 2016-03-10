@@ -1,4 +1,4 @@
-# Balanced Brackets
+# Balanced Parens
 
 ![Image paranthesis](http://folk.uio.no/torenord/parenthesis.jpg)
 
