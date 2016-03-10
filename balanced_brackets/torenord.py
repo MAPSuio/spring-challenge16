@@ -19,7 +19,7 @@ def check(line):
             if len(stack) == 0 or stack.pop() != rparens[c]:
                 return False
 
-    return True
+    return stack == []
 
 def main():
     print(sum(check(line.strip()) for line in stdin))
