@@ -1,4 +1,4 @@
-# MAPS puslespillet
+# MAPS-puslespillet
 Hvis du har løst "Enter the Puzzle Dimension", så har du kanskje oppdaget at forskjellige puslespill (selv med like mange brikker) kan ha forskjellig antall kantbrikker.
 Vi er på generell basis interessert i hvor mange kantbrikker forskjellige rektangulære puslespill har.
 
