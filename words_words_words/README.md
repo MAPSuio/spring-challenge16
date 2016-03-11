@@ -18,3 +18,5 @@ the character you're looking for.
 
 To discover the hidden word, find the character encoded by the first
 1000 words, then the second character from the next 1000 words and so on.
+
+Note: The hidden word contains both upper and lower case letters.
