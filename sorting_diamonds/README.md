@@ -1,5 +1,7 @@
 # Sorting diamonds
 
+![Image diamond](https://upload.wikimedia.org/wikipedia/commons/d/d3/Playing_card_diamond_A.svg)
+
 You are given all the cards of a given suit (13 cards) from a standard
 deck of cards.
 
