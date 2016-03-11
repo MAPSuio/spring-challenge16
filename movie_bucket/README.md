@@ -1,7 +1,9 @@
 # Movie Bucket
 
-Ole keeps his Blu-Ray movies stacked in a deep bucket. All films are
-unique. Given a history of when Ole
+Ole is weirdo. Firstly, he only watches and buys films that are among
+the top 200 grossing US box office films adjusted for inflation.
+Secondly, Ole keeps his Blu-Ray movies stacked in a deep bucket. All
+films are unique. Given a history of when Ole
 
 * buys new films (adds them on top of the stack)
 * sells films (removes them from the stack)
