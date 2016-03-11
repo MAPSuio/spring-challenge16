@@ -1,3 +1,7 @@
+# Frenemies
+
+![Image frenemies](http://saintpetersblog.com/wp-content/uploads/2016/03/Trump-and-Christie-hostage-840x440.jpg)
+
 Some people are friends, but secretly hate each other: They are
 *frenemies*. Specifically, we will say that x and y are *frenemies* if
 
