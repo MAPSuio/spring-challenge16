@@ -1,24 +1,22 @@
-# Sorter kløveren
-Kanskje du husker denne oppgaven fra du var liten:
+# Sorting diamonds
 
-Du får utdelt alle kort i én farge (13 kort), fra en kortstokk.
-Sorter kortene og legg dem i en bunke slik at du kan legge alle kortene på bordet i stigende rekkefølge (1 2 3 4 5 6 7 8 9 10 11 12 13) ved å utføre følgende algoritme:
+You are given all the cards of a given suit (13 cards) from a standard
+deck of cards.
 
-1. Legg det øverste kortet fra bunken, på bordet.
-2. Hvis du ikke har flere kort i bunken, avslutt.
-3. Legg det som nå er det øverste kortet i bunken, nederst i bunken.
-4. Gå til punkt 1.
+We want to be able to do a neat trick, and we need your help to figure
+out the starting configuration of the stack.
 
+Here is the neat trick: Starting with our cards in a stack, we want to
+place every card on the table in increasing order, starting with the Ace
+and ending with the King (1 2 3 4 5 6 7 8 9 10 11 12 13) by executing
+the following algorithm:
 
+1. Put the card on top of the stack on the table
+2. If the stack is empty, terminate.
+3. Put the card currently on top of the stack, at the bottom of the stack
+4. Go to step 1.
 
-![](http://157161691.r.lightningbase-cdn.com/wp-content/uploads/2013/04/RFlush-club1.jpg)
+How must the 13 cards be sorted for this trick to work?
 
-
-Hvordan må de 13 kortene være sortert for at dette skal fungere?
-
-Svaret skal oppgis som en streng med mellomrom mellom hvert kort og det øverste kortet lengst til venstre.
-
-
-
-For eksempel slik:
-	1 13 12 11 10 9 8 7 6 5 4 3 2
+Give your answer as a space-separated string, with the topmost card to the left, like so:
+         1 13 12 11 10 9 8 7 6 5 4 3 2
