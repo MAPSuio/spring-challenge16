@@ -1,9 +1,9 @@
 ##Words, Words, Words
 
 
-The file `data.txt` contains 10,000 (lowercase) English words. When
-interpreting this collection of words in a special way, you can find a
-secret word.
+[This file](https://gist.githubusercontent.com/cmrosenberg/45153f04750aebde65f2/raw/9df26ecd54dc7d35856fb1ae45052aa04b933680/gistfile1.txt)
+ contains 10,000 (lowercase) English words. When interpreting this
+collection of words in a special way, you can find a secret word.
 
 Each word is given a MAPS-score, which is the sum of the ASCII values of
 each of its characters plus 10. We do not count the newline character as
