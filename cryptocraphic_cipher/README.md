@@ -1,5 +1,7 @@
 # Cryptocraphic Cipher
 
+![](cryptocraphic_cipher.png)
+
 Below is the MIME Base64 representation of a PNG image xor'ed with a
 secret key that is repeated cyclically throughout the file.
 
