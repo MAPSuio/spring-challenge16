@@ -1,5 +1,6 @@
 # Kernel Crap Count
-![Image Tux](http://folk.uio.no/torenord/tux.png)
+
+![Image Tux](kernel_crap_count.png)
 
 Som kjernehacker hender det man har en dårlig dag. Da kan det være
 fristende å uttrykke sin frustrasjon med vulgariteter.
