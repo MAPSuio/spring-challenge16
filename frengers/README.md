@@ -10,8 +10,8 @@ For our purposes, we will say that two people are *frengers* if they
 2. have at least 3 friends in common, but
 3. are not themselves friends.
 
-Given a history of meetings and friendship formations, determine how many
-*pairs* of people are frengers.
+[This file](https://gist.githubusercontent.com/cmrosenberg/9b65d73805127ac4fe4c/raw/47c5add5a3c0004d41a26bed1bd9757e3cb6c015/gistfile1.txt)
+gives a history of meetings and friendship formations.  Determine how many *pairs* of people are frengers.
 
 You can assume that each name refers to one and and only one person.
 All names are mononyms – they consist of only one word.
