@@ -9,8 +9,9 @@ Some people are friends, but secretly hate each other: They are
 2. x hates y, and
 3. y hates x
 
-Given a history of friendship formations and moments in time when a person
-hates another, determine the number of *pairs* of frenemies
+[This file](https://gist.githubusercontent.com/cmrosenberg/213e8bfff3c9c3253568/raw/11627d7bb903c0da822d1d4561c27bd57cb004e8/gistfile1.txt)
+gives a history of friendship formations and moments in time when a person
+hates another, determine the number of *pairs* of frenemies.
 
 The dataset has the following format:
 
