@@ -2,7 +2,8 @@
 
 Playing the popularity game is all about getting yourself into the right groups. If you are on the football team and the honor roll, this might impress some people. If you are in the AV club, chess club, and academic probation, perhaps not so much. For this problem, develop a program that computes the set of people inside or outside various groups.
 
-The file data.txt begins with the description of a collection of 18 groups. Each group starts with a line of the form “group X n” where X is the name of the group and 1≤n≤37 is the number of people in the group. This is followed by n individual names, all on the same line. Group names and individual names are sequences of upper and lower-case letters.
+[This file](https://gist.githubusercontent.com/cmrosenberg/5944a94d75a7d4b2af8b/raw/84c7f23e8733df951847a6fdbb30510250c227ec/gistfile1.txt)
+begins with the description of a collection of 18 groups. Each group starts with a line of the form “group X n” where X is the name of the group and 1≤n≤37 is the number of people in the group. This is followed by n individual names, all on the same line. Group names and individual names are sequences of upper and lower-case letters.
 
 The group descriptions will be followed by 1000 selection expressions, one per line. A selection expression is an expression in Polish notation for identifying a set of individuals and may take one of the following forms:
 
