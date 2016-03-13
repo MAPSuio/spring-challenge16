@@ -25,6 +25,7 @@ def create_entry(root, files):
 
 
 print "Meteor.startup ->"
+print "  if Problems.find().count() is 0"
 
 for root, _, files in walk('.'):
 
