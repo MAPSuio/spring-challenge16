@@ -1,4 +1,4 @@
-##The MAPS sequence
+# The MAPS Sequence
 
 As of March 11 2016, the largest prime number found is 2<sup>74207281</sup>-1.
 

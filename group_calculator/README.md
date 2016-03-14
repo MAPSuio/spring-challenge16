@@ -1,4 +1,4 @@
-##Group calculator
+# Group Calculator
 
 Playing the popularity game is all about getting yourself into the right groups. If you are on the football team and the honor roll, this might impress some people. If you are in the AV club, chess club, and academic probation, perhaps not so much. For this problem, develop a program that computes the set of people inside or outside various groups.
 

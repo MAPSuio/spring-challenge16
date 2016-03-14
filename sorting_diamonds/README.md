@@ -1,4 +1,4 @@
-# Sorting diamonds
+# Sorting Diamonds
 
 ![Image diamond](https://upload.wikimedia.org/wikipedia/commons/d/d3/Playing_card_diamond_A.svg)
 

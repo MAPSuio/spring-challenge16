@@ -1,4 +1,4 @@
-# Sums in a circle
+# Sums in a Circle
 
 ![Image graph](sums_in_a_circle.png)
 
