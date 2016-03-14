@@ -1,7 +1,2 @@
 #!/bin/sh
-
-PITCHES=`cat data.txt | wc -l`
-
-UNIQUE_PITCHES=`cat data.txt | sort | uniq | wc -l`
-
-echo $PITCHES - $UNIQUE_PITCHES | bc
+sort data.txt | tee sorted.txt | uniq | comm -13 - sorted.txt | wc -l
