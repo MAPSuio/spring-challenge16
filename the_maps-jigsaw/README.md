@@ -1,5 +1,5 @@
 # The MAPS-jigsaw
-![Edge piece](https://pixabay.com/get/ef3cb2072ff71c22d9584518a33219c8b66ae3d11cb6184697f0c571/puzzle-693873_1920.jpg)
+![Edge piece](http://folk.uio.no/sigurki/jigsaw.jpg)
 
 If you have solved "Enter the Puzzle Dimension", you've probably
 noticed that different jigsaws (even two with the same number of
