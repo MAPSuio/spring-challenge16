@@ -1,16 +1,17 @@
 # Enter the puzzle dimension
+![Fjords](http://folk.uio.no/larstvei/fjorder.jpeg)
 
-Sigurd har fått et fint puslespill med motiv fra de norske fjorder til
-jul.
+Sigurd recieved a nice jigsaw puzzle with a motive from the norwegian
+fjords last christmas. Like any sane jigsaw-puzzler he used the first
+hour or so, to sort out the edge pieces (that is, a piece with at least
+one straight edge). Sigurd assumed that the jigsaw was a (40 *
+75)-jigsaw, since the box it came in, read /Ravensburger 3000/. This
+turned out to be wrong, since he ended up with 230 edge pieces after
+the sorting, a bit more than expected. He now needs your help to
+determine the dimentions of the jigsaw puzzle.
 
-Som alle puslespilløsere med vettet i behold, brukte han den første
-timen til å sortere ut kantbrikkene. (Brikker med minst en rett side)
-Sigurd antok at puslespillet skulle være et (40 * 75)-puslespill, siden
-det stod Ravensburger 3000 på esken. Dette viste seg å ikke stemme
-siden han hadde funnet 230 kantbrikker etter sorteringen (noe mer enn
-forventet). Han trenger nå din hjelp til å finne ut dimensjonene til
-puslespillet.
+#### Your task
 
-Et puslespill har 3240 brikker, hvorav 230 av brikkene er kantbrikker.
-Hva er dimensjonene til puslespillet (antall brikker i høyden og
-bredden). Angi svaret på formen `n m` der `n <= m`.
+A jigsaw has 3240 pieces, of which 230 are edge pieces. What are the
+dimentions of the jigsaw?
+Give the answer by spacing the two numbers `n m` where `n <= m` .
