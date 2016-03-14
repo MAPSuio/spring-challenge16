@@ -1,4 +1,4 @@
-# The MAPS-jigsaw
+# 08 The MAPS-jigsaw
 ![Edge piece](http://folk.uio.no/sigurki/jigsaw.jpg)
 
 If you have solved "Enter the Puzzle Dimension", you've probably

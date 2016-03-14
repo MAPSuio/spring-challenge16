@@ -1,4 +1,4 @@
-# Enter the Puzzle Dimension
+# 04 Enter the Puzzle Dimension
 ![Fjords](http://folk.uio.no/larstvei/fjorder.jpg)
 
 Sigurd recieved a nice jigsaw puzzle with a motive from the norwegian
