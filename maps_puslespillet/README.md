@@ -1,18 +1,25 @@
-# MAPS-puslespillet
-Hvis du har løst "Enter the Puzzle Dimension", så har du kanskje oppdaget at forskjellige puslespill (selv med like mange brikker) kan ha forskjellig antall kantbrikker.
-Vi er på generell basis interessert i hvor mange kantbrikker forskjellige rektangulære puslespill har.
+# The MAPS-jigsaw
 
-#### Definisjon (MAPS-puslespill):
+If you have solved "Enter the Puzzle Dimension", you've probably
+noticed that different jigsaws (even two with the same number of
+pieces) may have a different number of edge pieces. How many edge
+pieces different rectangular jigsaws have, is ofcourse an interest of
+ours.
 
-Et puslespill er et MAPS-puslespill hvis det har et minimalt antall kantbrikker.
-En kantbrikke er en brikke med minst én rett side.
+#### Definition (MAPS-jigsaw)
 
-#### Eksempel:
+A jigsaw is a MAPS-jigsaw if it has a minimal number of edge pieces.
+An egde piece is a piece with at least one straight edge.
 
-Alle puslespill med 1 brikke er MAPS-puslespill.
 
-MAPS-puslespillet med 57 brikker har 40 kantbrikker.
+#### Example:
 
-#### Oppgave:
+Every jigzaw with one piece (a trivial jigsaw) is a MAPS-jigsaw.
 
-Hvor mange kantbrikker har MAPS-puslespillet med 8387035452956160000 brikker?
+The MAPS-jigsaw with 57 pieces has 40 edge pieces.
+
+#### Your task:
+
+How many edge pieces does the MAPS-jigsaw with 8387035452956160000
+pieces have?
+
