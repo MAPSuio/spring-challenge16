@@ -1,5 +1,5 @@
 # Enter the puzzle dimension
-![Fjords](http://folk.uio.no/larstvei/fjorder.jpeg)
+![Fjords](http://folk.uio.no/larstvei/fjorder.jpg)
 
 Sigurd recieved a nice jigsaw puzzle with a motive from the norwegian
 fjords last christmas. Like any sane jigsaw-puzzler he used the first
