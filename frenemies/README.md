@@ -1,5 +1,7 @@
-*An error in the input dataset was detected during the competittion. The correct answer,
-given the dataset that was given in the competition is 249.*
+*An error in the input dataset was detected during the competition. The
+correct answer, should be 249. See carlmro_proper.py for a suggested
+solution. If you trusted the problem text during the competition (which
+was wrong, because the data was erroneous), you would get 343.*
 
 # 09 Frenemies
 
