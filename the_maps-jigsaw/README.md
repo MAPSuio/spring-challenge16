@@ -1,5 +1,5 @@
 # 08 The MAPS-jigsaw
-![Edge piece](http://folk.uio.no/sigurki/jigsaw.jpg)
+![Edge piece](https://dl.dropboxusercontent.com/u/1833533/jigsaw_scaled.jpg)
 
 If you have solved "Enter the Puzzle Dimension", you've probably
 noticed that different jigsaws (even two with the same number of
