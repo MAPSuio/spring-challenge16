@@ -24,19 +24,18 @@
     (when (every? seq seqs)
       (lazy-seq (step v-original-seqs)))))
 
-(defn matches? [img k]
-  (= signature
-     (map bit-xor (cycle k) img)))
+(defn decode [img key]
+  (map bit-xor (cycle key) img))
+
+(defn matches? [img key]
+  (= signature (decode (take 8 img) key)))
 
 (defn get-key [img]
   (let [alphabet (map (partial + 97) (range 26))
         keys ((fn ! [n] (lazy-cat (->> alphabet (repeat n)
                                       (apply cartesian-product))
                           (! (inc n)))) 1)]
-    (->> (filter (partial matches? (take 8 img)) keys) first)))
-
-(defn decode [img key]
-  (map bit-xor (cycle key) img))
+    (->> (filter (partial matches? img) keys) first)))
 
 (let [img (decode64 (slurp *in*))
       key (get-key img)]
