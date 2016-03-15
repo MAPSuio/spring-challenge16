@@ -392,3 +392,9 @@ The MAPS team behind the competition was:
 <td>2</td>
 </tr>
 </table>
+
+## LICENSE
+
+All problem descriptions are licensed under a [Creative Commons By 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+
+All source code is licensed under the MiT License, see LICENSE.txt
