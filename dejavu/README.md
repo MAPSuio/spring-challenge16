@@ -1,7 +1,7 @@
 # 02 Déjà Vu
 
 
-![Image stress](https://upload.wikimedia.org/wikipedia/commons/c/c5/Frustrated_man_at_a_desk.jpg)
+![Image stress](https://dl.dropboxusercontent.com/u/1833533/dejavu.jpg)
 
 Paul Thiel is a startup investor in the ultra-hip investor group Clarium
 Combinator. As a popular investor, eager entrepreneurs will constantly
