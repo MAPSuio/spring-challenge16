@@ -1,6 +1,6 @@
 # 07 Sums in a Circle
 
-![Image graph](sums_in_a_circle.png)
+![Image graph](https://dl.dropboxusercontent.com/u/1833533/sums_in_a_circle.png)
 
 Imagine *N* alternating circles and squares connected in a
 loop. Assign the integers from 1 to *N* to a circle or square such
