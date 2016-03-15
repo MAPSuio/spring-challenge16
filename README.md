@@ -281,111 +281,111 @@ The MAPS team behind the competition was:
 <td><b>Lowest</b></td>
 </tr>
 <tr>
-<td>01 Warm Up</td>
+<td>[01 Warm Up](warm_up/README.md)</td>
 <td>26</td>
 <td>9.46</td>
 <td>10</td>
 <td>2</td>
 </tr>
 <tr>
-<td>02 Déjá Vu</td>
+<td>[02 Déjá Vu](dejavu/README.md)</td>
 <td>25</td>
 <td>9.08</td>
 <td>10</td>
 <td>2</td>
 </tr>
 <tr>
-<td>03 Balanced Parens</td>
+<td>[03 Balanced Parens](balanced_parens/README.md)</td>
 <td>20</td>
 <td>7.60</td>
 <td>10</td>
 <td>2</td>
 </tr>
 <tr>
-<td>04 Enter the Puzzle Dimension</td>
+<td>[04 Enter the Puzzle Dimension](puzzle_dimension/README.md)</td>
 <td>20</td>
 <td>9.15</td>
 <td>10</td>
 <td>2</td>
 </tr>
 <tr>
-<td>05 Sorting Diamonds</td>
+<td>[05 Sorting Diamonds](sorting_diamonds/README.md)</td>
 <td>15</td>
 <td>9.13</td>
 <td>10</td>
 <td>5</td>
 </tr>
 <tr>
-<td>06 Kernel Crap Count</td>
+<td>[06 Kernel Crap Count](kernel_crap_count/README.md)</td>
 <td>10</td>
 <td>8.70</td>
 <td>10</td>
 <td>2</td>
 </tr>
 <tr>
-<td>07 Sums in a Circle</td>
+<td>[07 Sums in a Circle](sums_in_a_circle/README.md)</td>
 <td>3</td>
 <td>7.33</td>
 <td>10</td>
 <td>2</td>
 </tr>
 <tr>
-<td>08 The MAPS-jigsaw</td>
+<td>[08 The MAPS-jigsaw](the_maps-jigsaw/README.md)</td>
 <td>3</td>
 <td>9.33</td>
 <td>10</td>
 <td>9</td>
 </tr>
-<td>09 Frenemies</td>
+<td>[09 Frenemies](frenemies/README.md)</td>
 <td>10</td>
 <td>7.20</td>
 <td>10</td>
 <td>2</td>
 </tr>
 <tr>
-<td>10 Frengers</td>
+<td>[10 Frengers](frengers/README.md)</td>
 <td>2</td>
 <td>5.50</td>
 <td>9</td>
 <td>2</td>
 </tr>
 <tr>
-<td>11 Balanced Brackets</td>
+<td>[11 Balanced Brackets](balanced_brackets/README.md)</td>
 <td>11</td>
 <td>7.00</td>
 <td>10</td>
 <td>2</td>
 </tr>
 <tr>
-<td>12 The MAPS Sequence</td>
+<td>[12 The MAPS Sequence](maps_sequence/README.md)</td>
 <td>6</td>
 <td>8.50</td>
 <td>10</td>
 <td>2</td>
 </tr>
 <tr>
-<td>13 Cryptocraphic Cipher</td>
+<td>[13 Cryptocraphic Cipher](cryptocraphic_cipher/README.md)</td>
 <td>1</td>
 <td>10.00</td>
 <td>10</td>
 <td>10</td>
 </tr>
 <tr>
-<td>14 Words, Words, Words</td>
+<td>[14 Words, Words, Words](words_words_words/README.md)</td>
 <td>10</td>
 <td>9.70</td>
 <td>10</td>
 <td>8</td>
 </tr>
 <tr>
-<td>15 Movie Bucket</td>
+<td>[15 Movie Bucket](movie_bucket/README.md)</td>
 <td>10</td>
 <td>7.90</td>
 <td>10</td>
 <td>2</td>
 </tr>
 <tr>
-<td>16 Group Calculator</td>
+<td>[16 Group Calculator](group_calculator/README.md)</td>
 <td>2</td>
 <td>6.00</td>
 <td>10</td>
