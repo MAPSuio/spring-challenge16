@@ -1,7 +1,8 @@
 from os import path
 from os import walk
 
-CONTEST_START = "new Date"
+#JavaScript uses weird month notation, so March is 2
+CONTEST_START = "new Date(2016, 2, 15, 17)"
 
 def create_entry(root, files):
 
