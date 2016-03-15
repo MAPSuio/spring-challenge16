@@ -1,3 +1,6 @@
+*An error in the input dataset was detected during the competittion. The correct answer,
+given the dataset that was given in the competition is 249.*
+
 # 09 Frenemies
 
 ![Image frenemies](https://dl.dropboxusercontent.com/u/1833533/trump.jpg)
