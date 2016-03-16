@@ -11,7 +11,7 @@ def solutions(lst):
 
         # Test om vi får en gyldig løsningen ved å fylle inn den
         # siste.
-        y = lst[m-1] + lst[m+1-N]
+        y = lst[m-1] + lst[0]
         if y not in lst and y < N:
             lst[m] = y
             return [lst]
@@ -27,7 +27,7 @@ def solutions(lst):
 
     # Vi bruker tallene vi har igjen og tester ut hva som blir
     # neste firkant.
-    for x in [x for x in range(1, N) if x not in lst]:
+    for x in [x for x in range(1, N-1) if x not in lst]:
         y = x + lst[m-2]
 
         if y not in lst and y < N:
