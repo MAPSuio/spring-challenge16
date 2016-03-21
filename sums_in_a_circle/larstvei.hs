@@ -1,5 +1,6 @@
 import Data.Graph
 import Data.Array
+import Control.Parallel.Strategies (parMap, rdeepseq)
 
 buildEdges n = [(x,y) | x <- [1..m], y <- [1..m], p x y]
     where m = n-2
@@ -9,7 +10,7 @@ build n = buildG (1, n-2) $ buildEdges n
 
 solutions 0 xs v g | elem 1 (g!v) && (v+1) `notElem` xs = [v+1 : v : xs]
                    | otherwise    = []
-solutions i xs v g = concatMap f ys
+solutions i xs v g = concat $ parMap rdeepseq f ys
     where ys = filter p $ g!v
           p y = y `notElem` xs && v+y `notElem` xs
           f y = solutions (i-1) (v+y : v : xs) y g
