@@ -1,6 +1,7 @@
-import Data.Graph
-import Data.Array
+import System.Environment (getArgs)
 import Control.Parallel.Strategies (parMap, rdeepseq)
+import Data.Graph (buildG)
+import Data.Array ((!))
 
 buildEdges n = [(x,y) | x <- [1..m], y <- [1..m], p x y]
     where m = n-2
@@ -17,4 +18,4 @@ solutions i xs v g = concat $ parMap rdeepseq f ys
 
 solve n = solutions ((n `quot` 2) - 1) [] 1 $ build n
 
-main = (print . (`quot` 2) . length . solve) 20
+main = getArgs >>= print . length . solve . read . head
