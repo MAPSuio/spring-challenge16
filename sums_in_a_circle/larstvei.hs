@@ -1,10 +1,11 @@
 import Data.Graph
 import Data.Array
 
-buildEdges n = filter p [(x,y) | x <- [1..n], y <- [1..n]]
-    where p (x, y) = x + y <= n && x /= y
+buildEdges n = [(x,y) | x <- [1..m], y <- [1..m], p x y]
+    where m = n-2
+          p x y = x + y <= n && x /= y && (x+y /= n || x < y)
 
-build n = buildG (1, n) $ buildEdges n
+build n = buildG (1, n-2) $ buildEdges n
 
 solutions 0 xs v g | elem 1 (g!v) && (v+1) `notElem` xs = [v+1 : v : xs]
                    | otherwise    = []
